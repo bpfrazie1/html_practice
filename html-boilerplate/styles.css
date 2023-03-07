@@ -7,3 +7,29 @@ div {
     font-weight: bold;
     text-align: center;
 }
+
+.lesson02p {
+    background-color: lightcoral;
+    color: black;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#lesson02div1 {
+    background-color: white;
+    color: blue;
+    font-size: 36px;
+}
+
+.lesson02pbig {
+    background-color: lightcoral;
+    color: black;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
+
+#lesson02div2 {
+    background-color: lightgreen;
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
